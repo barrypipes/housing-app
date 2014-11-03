@@ -1,4 +1,7 @@
 /* Container */
+body {
+    overflow-x: hidden;
+}
 
 #container {
     width: 320px;
